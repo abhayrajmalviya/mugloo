@@ -12,7 +12,7 @@ used dependency
 
 # Preview
 
-![DEMO COMBINED|700](https://github.com/abhayrajmalviya/mugloo/blob/main/preview/demo.jp)
+![DEMO COMBINED|700](https://github.com/abhayrajmalviya/mugloo/blob/main/preview/demo.jpg)
 
 ![DEMO WHITE|700](https://github.com/abhayrajmalviya/mugloo/blob/main/preview/demo_white.png)
 
