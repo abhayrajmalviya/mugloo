@@ -8,7 +8,7 @@ used dependency
 - React Context
 - React Player
 
-#### check out the live version of application [here](https://mailclone-abhayraj.web.app/)
+#### check out the live version of application [here](https://mugloo.netlify.app/)
 
 # Preview
 
